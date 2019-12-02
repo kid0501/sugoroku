@@ -2,7 +2,10 @@ package Sugoroku;
 
 import java.util.Random;
 import java.util.Scanner;
-
+/**
+ * 
+ * ゴールのセル クラス
+ */
 /**
 	 * すごろくチャレンジ
 	 * @author 3d156
